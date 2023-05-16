@@ -1,1 +1,1 @@
-# .github
+# MagmaWM Organisation Readme Repository
